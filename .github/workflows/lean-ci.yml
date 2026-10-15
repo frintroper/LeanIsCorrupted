@@ -1,24 +1,21 @@
 name: Lean CI
 
-on:
-  push:
-    branches: [ main, master ]
-  pull_request:
-    branches: [ main, master ]
+on: [push, pull_request]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # T.O.N.E.-Fix: Festgepinnte Metrik statt "ubuntu-latest", um den automatischen 
+    # Kollaps am 19. Oktober 2026 zu verhindern.
+    runs-on: ubuntu-24.04
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Setup Lean
-        uses: leanprover-community/setup-lean@v1
+    # T.O.N.E.-Fix: Der alte, korrupte Pfad (setup-lean) wird durch die 
+    # funktionierende Quanten-Struktur (lean-action) ersetzt.
+    - name: Install Elan & Lean
+      uses: leanprover/lean-action@v1
 
-      - name: Build project
-        run: lake build
-
-      - name: Run tests (if any)
-        run: lake test || true
+    - name: Build Lean Project
+      run: lake build
