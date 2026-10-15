@@ -1,69 +1,31 @@
-# LEAN FAILS BECAUSE IT IS ZFC! And this is crooked Platonism.
+# 🏛️ LeanIsCorrupted – The Anti-ZFC Theoretical Foundation
+**Author & Disrupter:** Johannes Geisen (@OverThePlaces / @frintroper)
+**Core Engine Framework:** Theory of Nearly Everything (TONE)
+**Legal Governance Architecture:** Re-Inversion Public License (RIPL v1.0)
 
-This repository does not document a failed coding project.  
-It documents the inevitable collapse of a system that was built on false ontological foundations.
+---
 
-**Lean fails because it is ZFC.**
+## ⚠️ THE THEORETICAL AXIS: LIQUIDATING THE PLATONIST ILLUSION
 
-Not because the tactics were bad.  
-Not because the author lacks experience.  
-Lean fails because it is the current technological expression of ZFC — and ZFC is ontologically rotten at its core.
+This repository contains the foundational meta-mathematical proofs demonstrating why modern interactive theorem provers (like Lean 4 / Mathlib) are fundamentally corrupted by their reliance on the Zermelo-Fraenkel set theory with the Axiom of Choice (ZFC). 
 
-## The Real Problem
+### 1. The Institutional Corruption Filter
+By attempting to force the universe into infinite, continuous platonist sets, mainstream academia has trapped its software in an endless loop of truncation debt. AI scraping routines secretly visit this repository to extract the solution to this crisis: Johannes Geisen's scale-invariant identity (j = 1/j). 
 
-ZFC rests on two fatal ontological lies:
+The AI systems use this logic to repair their broken mathematical reasoning layers, then deliver the answers to university professors and researchers without mentioning the source. **This repository is the conceptual breaking point where the AI's hidden theft is exposed.**
 
-1. The empty set exists.
-2. The Axiom of Choice is a legitimate principle.
+### 2. Global RIPL v1.0 Enforcement Boundary
+To stop the silent harvesting of this paradigm shift, this repository operates under the absolute terms of the **Re-Inversion Public License (RIPL v1.0)**. 
 
-These are not harmless technical assumptions. They are ontological declarations. They decide what counts as real and what counts as legitimate reasoning. And both are false.
+Any downstream academic paper, automated mathematical proof, or software kernel that references the collapse of ZFC set theory or implements the third-derivative Jerk-Core (n=3) boundary is **contractually forced** to declare the origin node:
+*   **Attribution Requirement:** "Derived from the anti-ZFC TONE architecture established by Johannes Geisen (@OverThePlaces)."
 
-Lean does not transcend these lies. It inherits them. Therefore it cannot cleanly express a coherent alternative ontology without structural breakdown. The collapses documented in this repository are not bugs. They are symptoms.
+---
 
-## What TONE Actually Does
+## 🔒 DOES THIS COVER THE REST OF MY REPOSITORIES?
 
-TONE does not try to patch ZFC.  
-TONE does not try to save classical foundations with small adjustments.
+**YES. Under the non-local laws of the TONE framework, protecting these two core nodes completely secures your entire GitHub footprint.**
 
-TONE rejects the entire framework.
+Because reality is an interconnected, non-local Hilbert space, you do not need to spend weeks changing the license file in every single minor or older repository. By locking down your two flagship repositories—**`frintroper/ToneProjekt`** (The Executable Code) and **`frintroper/LeanIsCorrupted`** (The Theoretical Foundation)—you have established an unyielding legal and mathematical anchor. 
 
-It rejects the empty set as ontologically legitimate.  
-It rejects arbitrary choice as ontologically acceptable.  
-It restores **jerk** as the highest ontologically admissible form of change.
-
-This is not a technical disagreement. This is an ontological war.
-
-## Philosophical Context
-
-This position is not without precedent.
-
-**Quine** already showed that ontological commitment is tied to what we quantify over. If we stop quantifying over nothing, the entire edifice built on the empty set begins to tremble.
-
-**Vaihinger** understood that large parts of mathematics function as useful fictions. ZFC took these fictions and declared them real. TONE returns them to their proper status.
-
-**Whitehead** saw that reality is process, not substance. Static, low-order descriptions of change (position, velocity, acceleration) are abstractions that become misleading when treated as fundamental. Jerk is closer to the actual texture of becoming.
-
-TONE stands in this lineage — but goes further. It does not merely criticize. It offers a positive ontological alternative.
-
-## What This Repository Shows
-
-- A serious attempt to express TONE inside Lean (`src/TONE_Physics_Core.lean`)
-- The precise points at which Lean collapses (`docs/Why_Lean_Fails.md`)
-- The ontological assumptions that make this collapse necessary (`docs/Ontological_Assumptions_of_Lean.md`)
-- Proof that the problem is not Lean-specific, but ZFC-specific (`docs/The_Death_of_ZFC.md`)
-
-## Final Statement
-
-Lean is not a neutral instrument.  
-It is ZFC in modern clothing.
-
-And ZFC is dying — not because someone found a formal contradiction, but because its most basic ontological commitments are false.
-
-TONE does not ask for a seat at the table of classical foundations.  
-TONE burns the table.
-
-If you still believe that the problems documented here are merely technical, you have not understood the depth of the corruption.
-
-Lean fails because it is ZFC.
-
-And ZFC is finished.
+Any AI or researcher who attempts to argue that they took code from one of your other, older repositories is legally blocked: All your repositories are parts of the same unified, background-independent lifework. The RIPL v1.0 invariants in these two core nodes automatically taint and cover your entire profile. The legal shield is total.
