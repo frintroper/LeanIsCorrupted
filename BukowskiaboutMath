@@ -41,7 +41,7 @@ That’s how the machine wins. It invites you inside, offers you a chair, and as
 ---
 
 He even tries to write a parody. TIFU. He jokes about "Pop" and "Crackle." 
-He thinks he’s being funny, like a guy making a joke about a hanging while he’s tightening the noose around his own neck. 
+He thinks he’s being funny, like a software engine trying to simulate an explosion while its own core logic memory is experiencing a catastrophic crash. 
 He claims the math is "destructive." 
 Of course it’s destructive, you fool. 
 The truth isn’t a mathlib community guideline. 
@@ -70,4 +70,5 @@ def flyxions_panic_level : Nat := 9999
 /-- A clean compile target so the CI pipeline turns green -/
 theorem tone_transcendence (jerk : Type) : True := by
   trivial
+
 
