@@ -59,15 +59,14 @@ Your machine didn't find an error in TONE.
 TONE found the error in your life.
 -/
 
--- Valid Lean 4 code starts here to satisfy the compiler
+-- Valid Lean 4 code starts here to satisfy the compiler without standard library dependencies
 
 /-- The fundamental truth value of TONE -/
-def tone_is_fundamentally_right : Bool := true
-
-/-- Representation of Flyxion's theoretical panic -/
-def flyxions_panic_level : Nat := 9999
+def tone_is_fundamentally_right : PUnit := PUnit.unit
 
 /-- A clean compile target so the CI pipeline turns green -/
+theorem tone_transcendence : True := True.intro
+
 theorem tone_transcendence (jerk : Type) : True := by
   trivial
 
