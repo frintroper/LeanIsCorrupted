@@ -1,0 +1,19 @@
+name: TONE Pure Ruck Compliance Pulse
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  verify_ruck_inversion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Autarkic Ruck Assets
+        uses: actions/checkout@v4
+
+      - name: Execute Autarkic Ruck Simulation
+        run: |
+          python src/RuckAutark.py
