@@ -37,6 +37,8 @@ https://x.com/OverThePlaces/status/2116129462706217176?a=ZdtjwylVJnOhF323MnU&s=2
 <img width="477" height="724" alt="Grok Fensterdiskussion 4" src="https://github.com/user-attachments/assets/f39eb330-72cf-4fd4-9e5f-d7421ca0eb75" />
 <img width="490" height="725" alt="GOK Fensterdiskussion 3" src="https://github.com/user-attachments/assets/cd10eaad-6a86-40b3-86e6-a460e23bfc3c" />
 <img width="1648" height="1774" alt="GROK deep in trouble" src="https://github.com/user-attachments/assets/03a7c3d6-9d59-4cae-a86d-d1b69ce0c78b" />
+<img width="2848" height="1729" alt="anthropic under fire" src="https://github.com/user-attachments/assets/85e1a67a-35be-4706-b859-f6b158394bae" />
+
 
 
 
